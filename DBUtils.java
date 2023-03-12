@@ -1,2 +1,4 @@
-this file contains the DB related logic..
+db(connect){
+....
+}this file contains the DB related logic..
 
